@@ -2,6 +2,7 @@
 class ParentCalc{
     protected firstNumber:number;
     private message:string;
+    private secondNumber:number;
     private attendance:boolean;
     private temp:any;
     disp():void{
